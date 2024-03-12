@@ -1,7 +1,7 @@
 type User ={
-    name: string,
-    email: string,
-    isActive: boolean
+    name: string;
+    email: string;
+    isActive: boolean;
 }
 
 type Mystring = string
