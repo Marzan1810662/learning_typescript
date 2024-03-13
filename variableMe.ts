@@ -14,6 +14,14 @@ console.log(greetings);
 let isLoggedin:Boolean = false
 
 
+let pi:3.14 = 3.14
+
+pi = 3.14
+
+let planeSeats : 'aisle'| 'window'
+
+// planeSeats = 'crew'
+
 
 export{}
 

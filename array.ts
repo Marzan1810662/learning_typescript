@@ -27,4 +27,6 @@ const data: number[]= [1,2,3,4]
 const data2: string[]= ['1','2','3','4']
 const data3: string[]|number[]= [1,2,3,4] //it can either be an array of numbers or an array of strings. Can not have mixed values
 const data4: (number|string)[]= [1,2,3,'4'] //the array can have mixed values of number and string
+
+
 export{}
